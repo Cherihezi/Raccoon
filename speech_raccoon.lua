@@ -494,9 +494,9 @@ return {
 	DESCRIBE =
 	{
 		MULTIPLAYER_PORTAL = "I thought I heard laughter coming from that.",
-        MULTIPLAYER_PORTAL_MOONROCK = "I'm sure there's some scientific explanation for this.",
-        MOONROCKIDOL = "I only worship science.",
-        CONSTRUCTION_PLANS = "Stuff for science!",
+        MULTIPLAYER_PORTAL_MOONROCK = "What goes there again?",
+        MOONROCKIDOL = "Well, isn't that amazing?",
+        CONSTRUCTION_PLANS = "It shows what it's built.",
 
         ANTLION =
         {
@@ -932,9 +932,9 @@ return {
         },
         MUSHROOM_LIGHT =
         {
-            ON = "Science makes it light up.",
-            OFF = "It's a big, science-y 'shroom.",
-            BURNT = "Comboletely burnt.",
+            ON = "So pretty.",
+            OFF = "It's a mushroom used for light.",
+            BURNT = "Great. It's burnt.",
         },
         SLEEPBOMB = "It makes snooze circles when I throw it.",
         MUSHROOMBOMB = "A mushroom cloud in the making!",
@@ -970,7 +970,7 @@ return {
             GENERIC = "A magic mushroom?",
             BLOOM = "It's trying to reproduce.",
         },
-        MUSHTREE_TALL_WEBBED = "The spiders thought this one was important.",
+        MUSHTREE_TALL_WEBBED = "Ugh. It's sticky-looking.",
         SPORE_TALL =
         {
             GENERIC = "It's just drifting around.",
@@ -994,11 +994,11 @@ return {
         SLURTLE = "This dullard is the dullest.",
         SLURTLE_SHELLPIECES = "A puzzle with no solution.",
         SLURTLEHAT = "That would mess up my hair.",
-        SLURTLEHOLE = "A den of \"ew\".",
+        SLURTLEHOLE = "I bet it's full of slime poop.",
         SLURTLESLIME = "If it wasn't useful, I wouldn't touch it.",
         SNURTLE = "He's less gross, but still gross.",
         SPIDER_HIDER = "Gah! More spiders!",
-        SPIDER_SPITTER = "I hate spiders!",
+        SPIDER_SPITTER = "This guy is such a riot...",
         SPIDERHOLE = "It's encrusted with old webbing.",
         SPIDERHOLE_ROCK = "It's encrusted with old webbing.",
         STALAGMITE = "Looks like a rock to me.",
@@ -1073,7 +1073,7 @@ return {
 			GENERIC = "He looks ugly.",
 		    SLEEPING = "I could just hit him on the head so easily!",
         },
-        BUNDLE = "Our supplies are in there!",
+        BUNDLE = "Is it really completely sealed?",
         BUNDLEWRAP = "Wrapping things up should make them easier to carry.",
 		BACKPACK = "I better pick it up fast before someone else does.",
 		BACONEGGS = "Mmm! I could smell it from far away!",
@@ -1491,7 +1491,7 @@ return {
 		},
 		TWIGGY_NUT_SAPLING = "It doesn't need any help to grow.",
         TWIGGY_OLD = "That tree looks pretty wimpy.",
-		TWIGGY_NUT = "There's a stick-y tree inside it that wants to get out.",
+		TWIGGY_NUT = "It grows twigs when you plant them!",
 		EYEPLANT = "I think I'm being watched.",
 		INSPECTSELF = "Am I still in one piece?",
 		FARMPLOT =
