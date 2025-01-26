@@ -1900,7 +1900,7 @@ return {
         },
         RELIC = "Ancient household goods.",
         RUINS_RUBBLE = "This can be fixed.",
-        RUBBLE = "Just bits and pieces of rock.",
+        RUBBLE = "Nothing to care about.",
         RESEARCHLAB =
         {
             GENERIC = "Look at that sci-fi mumbo jumbo! Don't know what it does, but sure looks interesting!",
