@@ -199,7 +199,7 @@ return {
         BATHBOMB =
         {
             GLASSED = "I can't, the surface is glassed over.",
-            ALREADY_BOMBED = "That would be a waste of a bath bomb.",
+            ALREADY_BOMBED = "It's already used up.",
         },
 	},
 	ACTIONFAIL_GENERIC = "I can't do that.",
